@@ -1,5 +1,7 @@
 # LicenseGuard - Enterprise Dependency License Compliance Scanner
 
+[![CI](https://github.com/moggan1337/LicenseGuard/actions/workflows/ci.yml/badge.svg)](https://github.com/moggan1337/LicenseGuard/actions/workflows/ci.yml)
+
 <div align="center">
 
 ![LicenseGuard Logo](https://img.shields.io/badge/LicenseGuard-v1.0.0-blue?style=for-the-badge)
@@ -15,6 +17,24 @@
 </div>
 
 ---
+
+## 🎬 Demo
+![LicenseGuard Demo](demo.gif)
+
+*Dependency license compliance scanning*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Scan Results | ![scan](screenshots/scan-results.png) |
+| Policy Dashboard | ![policy](screenshots/policy.png) |
+| Violation Report | ![violations](screenshots/violations.png) |
+
+## Visual Description
+Scan results show dependency tree with license badges. Policy dashboard displays configured rules and exceptions. Violation report highlights non-compliant licenses with remediation.
+
+---
+
 
 ## Table of Contents
 
